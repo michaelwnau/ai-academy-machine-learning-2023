@@ -6,7 +6,7 @@ A repo for the final semester of the AI Academy Data Science and Machine Learnin
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [Week 1](#week-1)
+* [Week 1](ai-academy-machine-learning-2023\week-1)
 * [Week 2](#week-2)
 * [Week 3](#week-3)
 * [Week 4](#week-4)
