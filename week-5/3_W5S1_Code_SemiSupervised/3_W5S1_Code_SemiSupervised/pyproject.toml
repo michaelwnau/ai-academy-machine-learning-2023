@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "3-w5s1-code-semisupervised"
+version = "0.1.0"
+description = ""
+authors = ["Michael Nau <michaelwnau@gmail.com>"]
+readme = "README.md"
+packages = [{include = "3_w5s1_code_semisupervised"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
